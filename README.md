@@ -9,8 +9,6 @@
 [下載連結 Download Link](https://github.com/minhung1126/andong_fonts/releases/latest/download/Andong-font.ttf)\
 依序按下**右鍵**、**另存連結（另存連結為）**，並選擇一個好記的位置。
 
-![02_01_download_page.png](src/02_01_download_page.png)
-
 ### 安裝字型檔
 
 1. 找到下載的檔案，並依序按下**右鍵**、**開啟檔案**、**Windows字型檢視器**。
