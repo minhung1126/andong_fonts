@@ -6,13 +6,14 @@
 
 ### 下載字型檔
 
-[下載連結 Download Link](https://github.com/minhung1126/andong_fonts/releases/latest/download/Andong-font.ttf)\
-依序按下**右鍵**、**另存連結（另存連結為）**，並選擇一個好記的位置。
+[下載連結 Download Link](https://github.com/minhung1126/andong_fonts/releases/latest/download/Andong-font.ttf)
 
-### 安裝字型檔
+依序按下[**右鍵**]、[**另存連結（另存連結為）**]，並選擇一個好記的位置。
 
-1. 找到下載的檔案，並依序按下**右鍵**、**開啟檔案**、**Windows字型檢視器**。
-2. 按下左上角的**安裝**。
+### 安裝字型檔（Windows）
+
+1. 找到下載的檔案，並依序按下[**右鍵**]、[**開啟檔案**]、[**Windows字型檢視器**]。
+2. 按下左上角的[**安裝**]。
 ![02_02_install_page.png](src/02_02_install_page.png)
 
 ## 使用
@@ -31,21 +32,21 @@
 
 #### 方法一：轉為PDF檔（推薦）
 
-點選**另存新檔**，格式選擇**PDF**。
+點選[**另存新檔**]，格式選擇[**PDF**]。
 
 #### 方法二：Microsoft軟體設定內崁字型
 
 （以Microsoft 365 Word 說明）
 
-1. 開啟Word，並在左上角點擊**檔案**
+1. 開啟Word，並在左上角點擊[**檔案**]。
 ![alt text](src/03_01_word_setup.png)
-2. 左下角選擇**選項**。
+2. 左下角選擇[**選項**]。
 ![alt text](src/03_02_word_setup.png)
-3. 左方選擇**儲存**。
+3. 左方選擇[**儲存**]。
 ![alt text](src/03_03_word_setup.png)
-4. 將**在檔案內嵌字型**打勾，也將**只嵌入文件中使用的字元**打勾。
+4. 將[**在檔案內嵌字型**]打勾，也將[**只嵌入文件中使用的字元**]打勾。
 ![alt text](src/03_04_word_setup.png)
-5. （可選）若想一勞永逸，可以將上方**共用此文件時保留精確度**改為所有新文件，並依步驟1-4再設定一次。
+5. （可選）若想一勞永逸，可以將上方[**共用此文件時保留精確度**]改為所有新文件，並依步驟1-4再設定一次。
 ![alt text](src/03_05_word_setup.png)
 
 > 此方法由Microsoft提供，不保證穩定性，請以轉為PDF為優先。
