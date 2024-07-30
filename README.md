@@ -7,7 +7,7 @@
 ### 下載字型檔
 
 [下載連結 Download Link](https://github.com/minhung1126/andong_fonts/releases/latest)\
-點擊連結後，點選**Assets**下的**Andong-dont.ttf**，即可開始下載。
+點擊連結後，點選**Assets**下的**Andong-font.ttf**，即可開始下載。
 
 ![02_01_download_page.png](src/02_01_download_page.png)
 
